@@ -5,12 +5,12 @@ display_field: heading
 fields:
 - type: text
   name: heading
-  label: Heading
+  label: Getting Started
   description: Large text above button
 - type: text
   name: subheading
-  label: Subheading
   description: Smaller text below heading
+  label: Installation
 - type: textarea
   name: content
   label: Content
